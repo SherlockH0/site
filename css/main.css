@@ -1,0 +1,11 @@
+.hero {
+    height: 100vh;
+    background-image: url(https://picsum.photos/1600/900?blur);
+    background-attachment: fixed;
+    color: black;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    padding-top: 10%;
+}
